@@ -3,14 +3,14 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['212777466518','anamx',true],
-  ['18728176690','virjal',true],
-  ['212777466518', 'anamx', true],
+  ['212777466518','𝐀𝐋𝐕𝐀𝐑𝐎 𝐋𝐌9𝐖𝐃',true],
+مرحبا
+
   //['447451240296']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
-global.prems = ['919337956084,447451240296,447451231393,212646480851'] // Premium user has unlimited limit
+global.prems = ['212777466518'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
@@ -35,8 +35,20 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = '𝐀namx'
-global.author = '𝐀namx × 𝐀𝐫 𝐢𝐧f.'
+global.packname = '𝐀𝐋𝐕𝐀𝐑𝐎 𝐋𝐌9𝐖𝐃'
+global.author = ' 🤴آلـــــٓـفـــٓـﺂࢪꪆ
+
+|
+
+- 𝑙𝑜𝑎𝑑𝑖𝑛𝑔 𝑑𝑎𝑡𝑎... 
+
+-𝑃𝑙𝑒𝑎𝑠𝑒 𝑤𝑎𝑖𝑡...
+
+- ᴛʀʏ ʟᴀᴛᴇʀ...
+
+-+212777466518
+
+عجبك؟  اك هزو😻📌'
 
 global.multiplier = 69 // The higher, The harder levelup
 
