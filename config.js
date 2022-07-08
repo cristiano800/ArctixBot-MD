@@ -3,14 +3,14 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['212777466518','𝐀𝐋𝐕𝐀𝐑𝐎 𝐋𝐌9𝐖𝐃',true],
+  ['212695290310','ᴍᴏᴜᴀᴅ ᴇʟ',true],
 مرحبا
 
-  //['447451240296']
+  //['212695290310']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
-global.prems = ['212777466518'] // Premium user has unlimited limit
+global.prems = ['212695290310'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
@@ -30,13 +30,13 @@ global.APIs = { // API Prefix
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
-  'https://api.xteam.xyz': 'cristian9407'
+  'https://api.xteam.xyz': 'cristiano800'
    
 }
 
 // Sticker WM
-global.packname = '𝐀𝐋𝐕𝐀𝐑𝐎 𝐋𝐌9𝐖𝐃'
-global.author = ' 🤴آلـــــٓـفـــٓـﺂࢪꪆ
+global.packname = 'ᴏᴡᴇɴ ʙᴏᴛ'
+global.author = 'ᴍʏ ɪɴsᴛᴀɢʀᴀᴍ :  ᴍᴏᴜᴜᴀᴅ__ᴇʟᴋ'
 
 |
 
@@ -46,7 +46,7 @@ global.author = ' 🤴آلـــــٓـفـــٓـﺂࢪꪆ
 
 - ᴛʀʏ ʟᴀᴛᴇʀ...
 
--+212777466518
+-+212695290310
 
 عجبك؟  اك هزو😻📌'
 
